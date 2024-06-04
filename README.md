@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MasterCoombs
-- 👀 I’m interested in learing about any sort of code as I am new to the craft and would love to get better.
-- 🌱 I am making my way through second year of university.
-- 💞️ I’m looking to collaborate on anything that I can wrap my head around.
+- 👋 Hi, I’m Sal!
+- 👀 I’m interested in learing about web development and artificial intelligence.
+- 🌱 I just finished second year university. Looking forward to next year and new opportunities!
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me: sal@waldegrave.org.
 
 <!---
